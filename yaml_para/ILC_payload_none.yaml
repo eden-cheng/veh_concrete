@@ -1,0 +1,27 @@
+ILC_1_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+      curve:
+      - right
+      - left
+ILC_1_2:
+  group1:
+    para_action:
+      K_HV_acc:
+      - 40-80kph
+    para_odd:
+      default:
+      - any
+ILC_2_5:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any

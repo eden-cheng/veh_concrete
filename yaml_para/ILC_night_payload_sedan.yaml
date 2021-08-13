@@ -1,0 +1,68 @@
+ILC_8_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_TV_speed:
+      - 0kph
+      K_relative_distance:
+      - 160m
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      K_HV_speed:
+      - 100kph
+      K_TV_speed:
+      - 0kph
+      K_relative_distance:
+      - 210m
+    para_odd:
+      default:
+      - any
+  group3:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_TV_speed:
+      - 20kph
+      K_relative_distance:
+      - 130m
+    para_odd:
+      default:
+      - any
+ILC_9_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_TV_speed:
+      - 0kph
+      K_relative_distance:
+      - 220m
+    para_odd:
+      default:
+      - any
+ILC_10_2:
+  group1:
+    para_action:
+      K_TV_speed:
+      - 75kph
+      K_TV_dec:
+      - -1mpss
+      - -3mpss
+    para_odd:
+      default:
+      - any
+ILC_11_1:
+  group1:
+    para_action:
+      K_TV_speed:
+      - 75kph
+      K_TV_dec:
+      - -1mpss
+      - -3mpss
+    para_odd:
+      default:
+      - any

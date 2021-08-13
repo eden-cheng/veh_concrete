@@ -1,0 +1,119 @@
+CC_1_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_2_1:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 60kph
+    para_odd:
+      default:
+      - any
+CC_4_1:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 70kph
+    para_odd:
+      default:
+      - any
+CC_5_1:
+  group1:
+    para_action:
+      k_tv_speed01:
+      - 40kph
+      k_tv_speed02:
+      - 80kph
+      k_tv_acc:
+      - 1mpss
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_tv_speed01:
+      - 0kph
+      k_tv_speed02:
+      - 40kph
+      k_tv_acc:
+      - 0.5mpss
+    para_odd:
+      default:
+      - any
+CC_6_1:
+  group1:
+    para_action:
+      k_tv_speed01:
+      - 60kph
+      k_tv_speed02:
+      - 0kph
+      k_tv_acc:
+      - 3mpss
+    para_odd:
+      default:
+      - any
+CC_8_2:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 0kph
+      k_relative_dis:
+      - 200m
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_tv_speed:
+      - 20kph
+      k_relative_dis:
+      - 200m
+    para_odd:
+      default:
+      - any
+CC_9_1:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 40kph
+      k_relative_dis:
+      - 70m
+    para_odd:
+      default:
+      - any
+CC_10_1:
+  group1:
+    para_action:
+      k_tv_speed01:
+      - 100kph
+      k_tv_speed02:
+      - 40kph
+      k_tv_acc:
+      - 3mpss
+      k_relative_dis:
+      - 40m
+    para_odd:
+      default:
+      - any
+CC_11_1:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 100kph
+      k_relative_dis:
+      - 20m
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_tv_speed:
+      - 120kph
+      k_relative_dis:
+      - 20m
+    para_odd:
+      default:
+      - any

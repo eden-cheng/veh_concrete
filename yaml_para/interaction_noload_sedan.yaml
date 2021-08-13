@@ -1,0 +1,52 @@
+interaction_3_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 20kph
+      K_TV_speed:
+      - 0kph
+      K_Relative_Dis:
+      - 150m
+    para_odd:
+      default:
+      - any
+interaction_3_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_TV_speed:
+      - 0kph
+      K_Relative_Dis:
+      - 150m
+    para_odd:
+      default:
+      - any
+interaction_5_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+      K_TV_speed:
+      - 40kph
+      K_TV_acc:
+      - 1mpss
+      K_Relative_Dis:
+      - 50m
+    para_odd:
+      default:
+      - any
+interaction_5_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_TV_speed:
+      - 0kph
+      K_TV_acc:
+      - 1mpss
+      K_Relative_Dis:
+      - 50m
+    para_odd:
+      default:
+      - any

@@ -1,0 +1,238 @@
+ILC_1_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      - 100kph
+    para_odd:
+      default:
+      - any
+      curve:
+      - right
+      - left
+ILC_1_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ILC_2_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      - 100kph
+    para_odd:
+      default:
+      - any
+      curve:
+      - any
+ILC_2_4:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      - 100kph
+    para_odd:
+      default:
+      - any
+      curve:
+      - any
+ILC_2_5:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 100kph
+    para_odd:
+      default:
+      - any
+ILC_3_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 100kph
+    para_odd:
+      default:
+      - any
+ILC_3_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 100kph
+    para_odd:
+      default:
+      - any
+ILC_3_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 100kph
+    para_odd:
+      default:
+      - any
+ILC_3_4:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 100kph
+    para_odd:
+      default:
+      - any
+ILC_3_6:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 100kph
+    para_odd:
+      default:
+      - any
+ILC_16_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+ILC_16_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+ILC_16_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+ILC_16_5:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_relative_distance:
+      - 180m
+    para_odd:
+      default:
+      - any
+ILC_16_6:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 35kph
+    para_odd:
+      default:
+      - any
+ILC_17_13:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_relative_distance:
+      - 100m
+    para_odd:
+      default:
+      - any
+ILC_20_6:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_Lane_barriers_type:
+      - "\u6C34\u9A6C"
+      K_traffic_signs:
+      - "\u9525\u6876"
+      K_posture:
+      - "\u7AD9\u7ACB"
+    para_odd:
+      default:
+      - any
+ILC_20_7:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_Lane_barriers_type:
+      - "\u6C34\u9A6C"
+      K_traffic_signs:
+      - "\u9525\u6876"
+      K_posture:
+      - "\u7AD9\u7ACB"
+      K_relative_distance:
+      - 20m
+    para_odd:
+      default:
+      - any
+ILC_20_8:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_relative_distance:
+      - 200m
+      K_Lane_barriers_type:
+      - "\u6C34\u9A6C"
+      K_traffic_signs:
+      - "\u9525\u6876"
+      K_posture:
+      - "\u7AD9\u7ACB"
+    para_odd:
+      default:
+      - any
+ILC_20_11:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_relative_distance:
+      - 50m
+      K_Lane_barriers_type:
+      - "\u6C34\u9A6C"
+      K_traffic_signs:
+      - "\u9525\u6876"
+    para_odd:
+      default:
+      - any
+ILC_21_1:
+  group1:
+    para_action:
+      K_HV_speed: []
+    para_odd:
+      default:
+      - any
+ILC_22_3:
+  group1:
+    para_action:
+      K_HV_speed: []
+    para_odd:
+      default:
+      - any
+ILC_23_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+ILC_23_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+ILC_23_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any

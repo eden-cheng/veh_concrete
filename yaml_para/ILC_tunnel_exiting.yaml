@@ -1,0 +1,10 @@
+ILC_16_22:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_relative_distance:
+      - 5m
+    para_odd:
+      default:
+      - any

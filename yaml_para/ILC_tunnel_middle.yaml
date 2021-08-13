@@ -1,0 +1,8 @@
+ILC_16_20:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any

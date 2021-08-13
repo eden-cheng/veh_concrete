@@ -1,0 +1,8 @@
+odd&plan_1_1:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 60kph
+    para_odd:
+      default:
+      - any

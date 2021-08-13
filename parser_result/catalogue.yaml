@@ -1,0 +1,15 @@
+CC_case_relation:
+  CC_case_row: ./parser_result/CC_case_row.yaml
+  CC_case_column: ./parser_result/CC_case_column.yaml
+CC_para_relation:
+  CC_para_row: ./parser_result/CC_para_row.yaml
+  CC_para_column: ./parser_result/CC_para_column.yaml
+CC_values:
+  noload_none: ./yaml_para/CC_noload_none.yaml
+  noload_sedan: ./yaml_para/CC_noload_sedan.yaml
+  noload_truck: ./yaml_para/CC_noload_truck.yaml
+  payload_none: ./yaml_para/CC_payload_none.yaml
+  payload_sedan: ./yaml_para/CC_payload_sedan.yaml
+  night_none: ./yaml_para/CC_night_none.yaml
+  night_sedan: ./yaml_para/CC_night_sedan.yaml
+  night_truck: ./yaml_para/CC_night_truck.yaml

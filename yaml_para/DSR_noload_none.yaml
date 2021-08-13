@@ -1,0 +1,148 @@
+DSR_1_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_1_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_1_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_1_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_1_5:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_2_1:
+  group1:
+    para_action:
+      k_duration:
+      - "\u5C0F\u4E8E2.4s"
+    para_odd:
+      default:
+      - any
+DSR_2_2:
+  group1:
+    para_action:
+      k_duration:
+      - "\u5927\u4E8E2.4s\u5C0F\u4E8E6.6s"
+    para_odd:
+      default:
+      - any
+DSR_2_3:
+  group1:
+    para_action:
+      k_duration:
+      - "\u5927\u4E8E6.6s"
+    para_odd:
+      default:
+      - any
+DSR_3_1:
+  group1:
+    para_action:
+      k_duration:
+      - "\u5927\u4E8E5s"
+    para_odd:
+      default:
+      - any
+DSR_3_2:
+  group1:
+    para_action:
+      k_duration:
+      - "\u5927\u4E8E10s"
+    para_odd:
+      default:
+      - any
+DSR_4_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_4_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_4_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_4_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_4_5:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_5_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_5_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_5_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_6_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_6_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_6_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_7_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+DSR_7_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any

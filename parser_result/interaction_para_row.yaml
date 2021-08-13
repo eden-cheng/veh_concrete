@@ -1,0 +1,43 @@
+interaction_1:
+  interaction_1_1: 4
+  interaction_1_2: 9
+  interaction_1_3: 14
+  interaction_1_4: 19
+  interaction_1_5: 24
+  interaction_1_6: 29
+interaction_2:
+  interaction_2_1: 35
+  interaction_2_2: 40
+  interaction_2_3: 45
+  interaction_2_4: 50
+  interaction_2_5: 55
+interaction_3:
+  interaction_3_1: 61
+  interaction_3_2: 66
+  interaction_3_3: 71
+interaction_4:
+  interaction_4_1: 77
+  interaction_4_2: 82
+  interaction_4_3: 87
+  interaction_4_4: 92
+interaction_5:
+  interaction_5_1: 98
+  interaction_5_2: 103
+interaction_6:
+  interaction_6_1: 109
+  interaction_6_2: 114
+  interaction_6_3: 119
+  interaction_6_4: 124
+interaction_7:
+  interaction_7_1: 130
+  interaction_7_2: 135
+interaction_8:
+  interaction_8_1: 141
+  interaction_8_2: 146
+  interaction_8_3: 151
+  interaction_8_4: 156
+interaction_9:
+  interaction_9_1: 162
+  interaction_9_2: 167
+  interaction_9_3: 172
+  interaction_9_4: 177

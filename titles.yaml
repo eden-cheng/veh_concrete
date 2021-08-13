@@ -1,0 +1,18 @@
+#输出具体case文件的列顺序，一方面前面的标题采用字典存储顺序可能是乱序的，另一方面并不需要将所有表头输出，只输出部分表头下的信息
+output_titles: 
+  ['id', 'feature', 'summary', 'keywords', 'road_geo',  'tv', 
+  'weather', 'illumination', 'load', 'speed_limit', area,
+  'rm_execution', 'initial status of hv', 'initial status of tv', 'action of hv', 'action of tv', 
+  'rm_sub_criteria', 'rm_obj_criteria', 'subjective criteria', 'objective criteria']
+
+#左边是生成excel的标题，右边是源文件中case表的标题
+relation:
+  rm_execution: condition
+  initial status of hv: hvInitial
+  initial status of tv: tvInitial
+  action of hv: hvAction
+  action of tv: tvAction
+  rm_sub_criteria: sub
+  rm_obj_criteria: obj
+  subjective criteria: subjective
+  objective criteria: objective

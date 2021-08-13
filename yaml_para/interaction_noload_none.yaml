@@ -1,0 +1,160 @@
+interaction_1_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_1_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 20kph
+    para_odd:
+      default:
+      - any
+interaction_1_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_1_4:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_1_5:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 60kph
+    para_odd:
+      default:
+      - any
+interaction_1_6:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 60kph
+    para_odd:
+      default:
+      - any
+interaction_2_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_2_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_2_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_4_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_4_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_6_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_6_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_7_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_7_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_8_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_8_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_8_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_9_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+interaction_9_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any

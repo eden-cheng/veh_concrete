@@ -1,0 +1,192 @@
+odd&per_3_1:
+  group1:
+    para_action:
+      k_relative_dis:
+      - 200m
+      k_tv_speed:
+      - 5kph
+    para_odd:
+      default:
+      - any
+odd&per_3_2:
+  group1:
+    para_action:
+      k_relative_dis:
+      - 200m
+      k_tv_speed:
+      - 5kph
+    para_odd:
+      default:
+      - any
+odd&per_3_3:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 5kph
+      k_tv_deviation:
+      - 0.3m
+    para_odd:
+      default:
+      - any
+odd&per_3_4:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 5kph
+      k_tv_deviation:
+      - 1m
+    para_odd:
+      default:
+      - any
+odd&per_3_5:
+  group1:
+    para_action:
+      k_relative_dis:
+      - 80m
+    para_odd:
+      default:
+      - any
+odd&per_4_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_4_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_4_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_4_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_4_5:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_4_6:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_4_7:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_4_8:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_5_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_5_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_5_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_5_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_6_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_6_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_6_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_6_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_6_5:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_6_6:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_6_7:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_6_8:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_6_9:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_7_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_10_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_10_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any

@@ -1,0 +1,426 @@
+AC_1_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_1_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_1_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_1_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_2_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_2_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_5:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_6:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_7:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_8:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_9:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_10:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_11:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_12:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_13:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_14:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_15:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_16:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_17:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_18:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_19:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_20:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_21:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_22:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_23:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_24:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_25:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_26:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_27:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_28:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_29:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_30:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_31:
+  group1:
+    para_action:
+      k_en_temp:
+      - "0-40\u2103"
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_en_temp: []
+    para_odd:
+      default: []
+AC_3_32:
+  group1:
+    para_action:
+      k_en_temp:
+      - "0-40\u2103"
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_en_temp: []
+    para_odd:
+      default: []
+AC_3_33:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_34:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_35:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_36:
+  group1:
+    para_action:
+      k_en_temp:
+      - "0-40\u2103"
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_en_temp: []
+    para_odd:
+      default: []
+AC_3_37:
+  group1:
+    para_action:
+      k_en_temp:
+      - "0-40\u2103"
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_en_temp: []
+    para_odd:
+      default: []
+AC_3_38:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_39:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_40:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_41:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_42:
+  group1:
+    para_action:
+      k_en_temp:
+      - "0-40\u2103"
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_en_temp:
+      - "40-80\u2103or-40-0\u2103"
+    para_odd:
+      default:
+      - any
+AC_3_43:
+  group1:
+    para_action:
+      k_en_temp:
+      - "0-40\u2103"
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_en_temp: []
+    para_odd:
+      default: []
+AC_3_44:
+  group1:
+    para_action:
+      k_en_temp:
+      - "40-80\u2103"
+    para_odd:
+      default:
+      - any
+AC_3_45:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_46:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_47:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_48:
+  group1:
+    para_action:
+      k_en_temp:
+      - "0-40\u2103"
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_en_temp: []
+    para_odd:
+      default: []
+AC_3_49:
+  group1:
+    para_action:
+      k_en_temp:
+      - "0-40\u2103"
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_en_temp: []
+    para_odd:
+      default: []
+AC_3_50:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_3_51:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_4_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_4_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_4_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+AC_4_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any

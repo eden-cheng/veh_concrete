@@ -1,0 +1,40 @@
+odd&loc_2_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&loc_2_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&loc_2_3:
+  group1:
+    para_action:
+      k_speed_limit01:
+      - 80kph
+      k_speed_limit:
+      - 60kph
+    para_odd:
+      default:
+      - any
+odd&loc_2_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&loc_3_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&loc_3_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any

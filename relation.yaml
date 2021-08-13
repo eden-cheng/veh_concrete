@@ -1,0 +1,106 @@
+###手动维护
+#odd库的行列
+lib_odd:
+  # odd_group: 1
+  load: 2
+  illumination: 3
+  weather: 4
+  tv: 5
+  speed_limit: 6
+  area: 7
+
+#case库的行列
+lib_case_first:
+  id_column: A
+  title_row: 4
+
+#para库的行列
+lib_para_first:
+  id_column: A
+  title_row: 2
+
+#para库的列（手动配置），但是行是通过parser得出的
+basic_para:
+  noload_none_action: 4
+  noload_none_odd: 5
+  noload_sedan_action: 6
+  noload_sedan_odd: 7
+  noload_truck_action: 8
+  noload_truck_odd: 9
+  payload_none_action: 10
+  payload_none_odd: 11
+  payload_sedan_action: 12
+  payload_sedan_odd: 13
+  payload_truck_action: 14
+  payload_truck_odd: 15
+  night_none_action: 16
+  night_none_odd: 17
+  night_sedan_action: 18
+  night_sedan_odd: 19
+  night_truck_action: 20
+  night_truck_odd: 21
+  night_payload_none_action: 22
+  night_payload_none_odd: 23
+  night_payload_sedan_action: 24
+  night_payload_sedan_odd: 25
+  night_payload_truck_action: 26
+  night_payload_truck_odd: 27
+  sedan_sedan_action: 28
+  sedan_sedan_odd: 29
+  sedan_truck_action: 30
+  sedan_truck_odd: 31
+  truck_truck_action: 32
+  truck_truck_odd: 33
+  night_sedan_sedan_action: 34
+  night_sedan_sedan_odd: 35
+  night_sedan_truck_action: 36
+  night_sedan_truck_odd: 37
+  night_truck_truck_action: 38
+  night_truck_truck_odd: 39
+  tunnel_entering_action: 40
+  tunnel_entering_odd: 41
+  tunnel_exiting_action: 42
+  tunnel_exiting_odd: 43
+  tunnel_middle_action: 44
+  tunnel_middle_odd: 45
+
+#para库的列（手动配置），但是行是通过parser得出的
+odd_para:
+  day_sunny_highway_noload_action: 4
+  day_sunny_highway_noload_odd: 5
+  day_sunny_highway_payload_action: 6
+  day_sunny_highway_payload_odd: 7
+  day_sunny_tunnel_noload_action: 8
+  day_sunny_tunnel_noload_odd: 9
+  dawn_sunny_highway_noload_action: 10
+  dawn_sunny_highway_noload_odd: 11
+  night_sunny_highway_noload_action: 12
+  night_sunny_highway_noload_odd: 13
+  night&lamp_sunny_highway_noload_action: 14
+  night&lamp_sunny_highway_noload_odd: 15
+  day_rainy_highway_noload_action: 16
+  day_rainy_highway_noload_odd: 17
+  day_heavyrainy_highway_noload_action: 18
+  day_heavyrainy_highway_noload_odd: 19
+  night_rainy_highway_noload_action: 20
+  night_rainy_highway_noload_odd: 21
+  night&lamp_rainy_highway_noload_action: 22
+  night&lamp_rainy_highway_noload_odd: 23
+  day_rainy_highway_payload_action: 24
+  day_rainy_highway_payload_odd: 25
+
+#  para库的列（手动配置），但是行是通过parser得出的
+unbasic_para:
+  noload_none_action: 4
+  noload_none_odd: 5
+  noload_sedan_action: 6
+  noload_sedan_odd: 7
+  noload_truck_action: 8
+  noload_truck_odd: 9
+  payload_none_action: 10
+  payload_none_odd: 11
+  payload_sedan_action: 12
+  payload_sedan_odd: 13
+  payload_truck_action: 14
+  payload_truck_odd: 15
+  

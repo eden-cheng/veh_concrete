@@ -1,0 +1,257 @@
+SW_1_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+SW_1_2:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 30kph
+      - 60kph
+      - 80kph
+    para_odd:
+      default:
+      - any
+SW_2_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+SW_2_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+SW_2_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+SW_2_4:
+  group1:
+    para_action:
+      k_pressure:
+      - "\u5927\u4E8E\u7B49\u4E8E8bar"
+    para_odd:
+      default:
+      - any
+SW_2_5:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+SW_2_6:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+SW_2_7:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+SW_2_8:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+SW_3_1:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+    para_odd:
+      default:
+      - any
+SW_3_2:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_area:
+      - 5%
+      - 10%
+      - 18%
+    para_odd:
+      default:
+      - any
+SW_3_3:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_area:
+      - 5%
+      - 10%
+      - 18%
+    para_odd:
+      default:
+      - any
+SW_3_4:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_number:
+      - '5'
+      - '10'
+      - '15'
+    para_odd:
+      default:
+      - any
+SW_4_1:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_area:
+      - 25%
+      - 50%
+      - 100%
+    para_odd:
+      default:
+      - any
+SW_4_2:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_area:
+      - 25%
+      - 50%
+      - 100%
+    para_odd:
+      default:
+      - any
+SW_4_3:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_number:
+      - '30'
+    para_odd:
+      default:
+      - any
+SW_5_1:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_area:
+      - 25%
+      - 50%
+      - 100%
+    para_odd:
+      default:
+      - any
+SW_5_2:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_area:
+      - 25%
+      - 50%
+      - 100%
+    para_odd:
+      default:
+      - any
+SW_5_3:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_number:
+      - '30'
+    para_odd:
+      default:
+      - any
+SW_6_1:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_area:
+      - 25%
+      - 50%
+      - 100%
+    para_odd:
+      default:
+      - any
+SW_6_2:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_area:
+      - 25%
+      - 50%
+      - 100%
+    para_odd:
+      default:
+      - any
+SW_6_3:
+  group1:
+    para_action:
+      k_position lidar:
+      - "\u524D\u96F7\u8FBE"
+      - "\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u96F7\u8FBE\uFF08\u6216\u53F3\u96F7\u8FBE\uFF09"
+      - "\u524D\u53CA\u5DE6\u53CA\u53F3\u96F7\u8FBE"
+      k_number:
+      - '30'
+    para_odd:
+      default:
+      - any
+SW_8_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any

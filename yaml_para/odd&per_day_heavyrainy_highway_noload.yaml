@@ -1,0 +1,18 @@
+odd&per_9_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_9_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&per_9_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any

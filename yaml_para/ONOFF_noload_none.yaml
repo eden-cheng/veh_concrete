@@ -1,0 +1,199 @@
+ONOFF_1_1:
+  group1:
+    para_action:
+      K_ADU_OFF_Time:
+      - 150s
+    para_odd:
+      default:
+      - any
+ONOFF_2_1:
+  group1:
+    para_action:
+      K_ADU_Wakeup_Time:
+      - 300ms
+    para_odd:
+      default:
+      - any
+ONOFF_3_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_3_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_4_1:
+  group1:
+    para_action:
+      K_ADU_OFF_Time:
+      - 150s
+    para_odd:
+      default:
+      - any
+ONOFF_5_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_6_1:
+  group1:
+    para_action:
+      K_SiganalValue: []
+    para_odd:
+      default:
+      - any
+ONOFF_6_4:
+  group1:
+    para_action:
+      K_NotReadyEvents:
+      - "\u65B9\u5411\u76D8\u8131\u624B"
+      - "\u5B89\u5168\u5E26\u672A\u7CFB"
+    para_odd:
+      default:
+      - any
+ONOFF_7_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_8_1:
+  group1:
+    para_action:
+      K_ADS_State_Resnson:
+      - "\u6EE1\u8DB3\u8981\u6C42"
+      K_Vehicle_State_Reason:
+      - "\u6EE1\u8DB3\u8981\u6C42"
+      K_ODD_State_Reason:
+      - "\u975E On-OFF Ramps"
+    para_odd:
+      default:
+      - any
+ONOFF_9_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_11_1:
+  group1:
+    para_action:
+      K_ADS_State_Resnson:
+      - "\u6EE1\u8DB3\u8981\u6C42"
+      K_Vehicle_State_Reason:
+      - "\u6EE1\u8DB3\u8981\u6C42"
+      K_ODD_State_Reason:
+      - On-OFF Ramps
+      K_Driver_State_Reason:
+      - "\u4E0D\u7CFB\u5B89\u5168\u5E26"
+      - "\u5173\u95ED\u8F66\u95E8"
+      - "\u9A7E\u9A76\u5458\u56F0\u5026"
+      - "\u9A7E\u9A76\u5458\u63A5\u6253\u7535\u8BDD"
+      - "\u9A7E\u9A76\u5458\u8131\u624B\u65B9\u5411\u76D8"
+    para_odd:
+      default:
+      - any
+ONOFF_12_1:
+  group1:
+    para_action:
+      K_ADS_State_Resnson:
+      - "\u6EE1\u8DB3\u8981\u6C42"
+      K_Vehicle_State_Reason:
+      - "\u6EE1\u8DB3\u8981\u6C42"
+      K_ODD_State_Reason:
+      - "\u975E On-OFF Ramps"
+      - "\u975E\u6536\u8D39\u53E3"
+      - "\u9053\u7EBF\u6E05\u6670\u8DEF\u6BB5"
+      K_Driver_State_Reason:
+      - "\u7CFB\u5B89\u5168\u5E26"
+      - "\u5173\u95ED\u8F66\u95E8"
+      - "\u8F6C\u5411\u706F\u4E0D\u6FC0\u6D3B"
+      - "\u5371\u9669\u8B66\u544A\u706F\u4E0D\u6FC0\u6D3B"
+      - "\u4E3B\u9A7E\u4F5C\u4E3A\u6709\u4EBA"
+      - "\u9A7E\u9A76\u5458\u4E0D\u56F0\u5026"
+      - "\u9A7E\u9A76\u5458\u4E13\u6CE8\u4E8E\u9053\u8DEF\u524D\u65B9"
+      - "\u9A7E\u9A76\u5458\u4E0D\u5728\u63A5\u6253\u7535\u8BDD"
+      - "\u9A7E\u9A76\u5458\u624B\u63E1\u65B9\u5411\u76D8"
+      - "\u4E3B\u8F66\u5B8C\u5168\u5728\u4E3B\u8F66\u9053\u8303\u56F4\u4E4B\u5185"
+      - "\u8DDD\u79BB\u524D\u8F66\u5927\u4E8E4s\u65F6\u8DDD"
+    para_odd:
+      default:
+      - any
+ONOFF_13_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_14_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_15_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_15_4:
+  group1:
+    para_action:
+      K_OFF_t_Act_Btn_DblPrs_Time:
+      - "5s\uFF08TBD\uFF09"
+      K_SignalValue:
+      - "Process1\u663E\u793A\u201C\u5982\u9700\u9000\u51FA\uFF0C\u8BF7\u8FDE\u7EED\
+        \u6309\u4E24\u6B21\u201D"
+    para_odd:
+      default:
+      - any
+ONOFF_16_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_16_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_16_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_18_1:
+  group1:
+    para_action:
+      K_OFF_t_Act_Btn_DblPrs_Time: []
+    para_odd:
+      default:
+      - any
+ONOFF_18_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_19_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+ONOFF_20_1:
+  group1:
+    para_action:
+      ' K_Vsp_Slp_Min': []
+    para_odd:
+      default:
+      - any

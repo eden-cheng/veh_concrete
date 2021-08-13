@@ -1,0 +1,18 @@
+odd&loc_1_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&loc_1_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+odd&loc_1_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any

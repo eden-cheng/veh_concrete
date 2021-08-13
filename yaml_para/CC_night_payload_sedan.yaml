@@ -1,0 +1,24 @@
+CC_5_1:
+  group1:
+    para_action:
+      k_tv_speed01:
+      - 40kph
+      k_tv_speed02:
+      - 80kph
+      k_tv_acc:
+      - 1mpss
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_tv_speed01:
+      - 0kph
+      k_tv_speed02:
+      - 40kph
+      k_tv_acc:
+      - 0.5mpss
+      - 2mpss
+    para_odd:
+      default:
+      - any

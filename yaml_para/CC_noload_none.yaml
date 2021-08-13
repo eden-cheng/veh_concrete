@@ -1,0 +1,522 @@
+CC_1_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+    para_odd:
+      curve:
+      - 700m
+CC_2_1:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 20kph
+      - 40kph
+      - 80kph
+      - 110kph
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_hv_speed:
+      - 30kph
+    para_odd:
+      uphill:
+      - any
+  group3:
+    para_action:
+      k_hv_speed:
+      - 70kph
+    para_odd:
+      downhill:
+      - any
+CC_3_1:
+  group1:
+    para_action:
+      k_hv_direction:
+      - left
+      k_hv_speed:
+      - 60kph
+      k_hv_deviation:
+      - 30cm
+      k_hv_heading:
+      - "0(\u4E0D\u504F\u8F6C)"
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      k_hv_direction:
+      - left
+      k_hv_speed:
+      - 60kph
+      hv_deviation:
+      - 30cm
+      k_hv_heading:
+      - "0(\u4E0D\u504F\u8F6C)"
+    para_odd:
+      curve:
+      - 700m_right
+  group3:
+    para_action:
+      k_hv_direction:
+      - right
+      k_hv_speed:
+      - 60kph
+      hv_deviation:
+      - 30cm
+      k_hv_heading:
+      - "0(\u4E0D\u504F\u8F6C)"
+    para_odd:
+      default:
+      - any
+  group4:
+    para_action:
+      k_hv_direction:
+      - right
+      k_hv_speed:
+      - 60kph
+      hv_deviation:
+      - 30cm
+      k_hv_heading:
+      - "0(\u4E0D\u504F\u8F6C)"
+    para_odd:
+      curve:
+      - 700m_right
+  group5:
+    para_action:
+      k_hv_direction:
+      - left
+      - right
+      k_hv_speed:
+      - 40kph
+      k_hv_deviation:
+      - "0(\u4E0D\u504F\u79BB)"
+      k_hv_heading:
+      - "30\xB0"
+    para_odd:
+      default:
+      - any
+CC_3_2:
+  group1:
+    para_action:
+      k_hv_direction:
+      - right
+      - left
+      k_hv_speed:
+      - 40kph
+    para_odd:
+      default:
+      - any
+CC_16_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_16_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_16_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_16_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_16_5:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_17_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_18_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_19_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_19_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_20_1:
+  group1:
+    para_action:
+      k_speed_limit:
+      - 60kph
+    para_odd:
+      default:
+      - any
+CC_20_2:
+  group1:
+    para_action:
+      k_speed_limit:
+      - 80kph
+    para_odd:
+      default:
+      - any
+CC_22_1:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 40kph
+      - 60kph
+    para_odd:
+      default:
+      - any
+CC_26_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_26_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_26_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_27_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_27_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_27_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_28_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_28_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_29_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_29_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_29_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_29_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_29_5:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_30_1:
+  group1:
+    para_action:
+      k_headway_setting_interval:
+      - 300ms
+    para_odd:
+      default:
+      - any
+CC_30_2:
+  group1:
+    para_action:
+      k_headway_setting_interval:
+      - 300ms
+    para_odd:
+      default:
+      - any
+CC_30_3:
+  group1:
+    para_action:
+      k_headway_setting_interval:
+      - 300ms
+    para_odd:
+      default:
+      - any
+CC_30_4:
+  group1:
+    para_action:
+      k_headway_setting_interval:
+      - 300ms
+    para_odd:
+      default:
+      - any
+CC_30_5:
+  group1:
+    para_action:
+      k_headway_setting_interval:
+      - 300ms
+    para_odd:
+      default:
+      - any
+CC_34_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_34_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_35_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_35_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_35_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+CC_36_1:
+  group1:
+    para_action:
+      k_speed_limit:
+      - 80kph
+      k_speed_odd:
+      - 100kph
+      k_hv_speed:
+      - 30kph
+    para_odd:
+      default:
+      - any
+CC_36_2:
+  group1:
+    para_action:
+      k_speed_limit:
+      - 80kph
+      k_speed_odd:
+      - 100kph
+      k_hv_speed:
+      - 90kph
+    para_odd:
+      default:
+      - any
+CC_36_3:
+  group1:
+    para_action:
+      k_speed_limit:
+      - 80kph
+      k_speed_odd:
+      - 100kph
+      k_hv_speed:
+      - 110kph
+    para_odd:
+      default:
+      - any
+CC_37_1:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 80kph
+      k_time_long_press_thresshold:
+      - 1s
+    para_odd:
+      default:
+      - any
+CC_37_2:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 80kph
+      k_time_long_press_thresshold:
+      - 1s
+    para_odd:
+      default:
+      - any
+CC_37_3:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 80kph
+      k_time_long_press_thresshold:
+      - 1s
+    para_odd:
+      default:
+      - any
+CC_37_4:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 80kph
+      k_time_long_press_thresshold:
+      - 2s
+    para_odd:
+      default:
+      - any
+CC_37_5:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 80kph
+      k_time_long_press_thresshold:
+      - 1s
+    para_odd:
+      default:
+      - any
+CC_37_6:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 80kph
+      k_time_long_press_thresshold:
+      - 1s
+    para_odd:
+      default:
+      - any
+CC_38_1:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 60kph
+      K_TIME_LONG_PRESS_THRESHOLD:
+      - 1s
+      k_time:
+      - 1s
+      - 2s
+      - 3s
+    para_odd:
+      default:
+      - any
+CC_38_4:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 60kph
+      K_TIME_LONG_PRESS_THRESHOLD:
+      - 1s
+      k_time:
+      - 1s
+      - 2s
+      - 3s
+    para_odd:
+      default:
+      - any
+CC_39_1:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 30kph
+    para_odd:
+      default:
+      - any
+CC_39_2:
+  group1:
+    para_action:
+      k_hv_speed:
+      - 50kph
+      - 80kph
+    para_odd:
+      default:
+      - any
+CC_40_1:
+  group1:
+    para_action:
+      k_hv_speed01:
+      - 40kph
+      k_hv_speed02:
+      - 50kph
+    para_odd:
+      default:
+      - any
+CC_40_2:
+  group1:
+    para_action:
+      k_hv_speed01:
+      - 70kph
+      k_hv_speed02:
+      - 60kph
+    para_odd:
+      default:
+      - any
+CC_40_5:
+  group1:
+    para_action:
+      k_hv_speed01:
+      - 30kph
+      k_hv_speed02:
+      - 70kph
+    para_odd:
+      default:
+      - any
+CC_40_6:
+  group1:
+    para_action:
+      k_hv_speed01:
+      - 70kph
+      k_hv_speed02:
+      - 30kph
+    para_odd:
+      default:
+      - any

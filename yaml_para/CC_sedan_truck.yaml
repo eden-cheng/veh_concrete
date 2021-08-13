@@ -1,0 +1,10 @@
+CC_24_1:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 40kph
+      k_relative_dis:
+      - 20m
+    para_odd:
+      default:
+      - any

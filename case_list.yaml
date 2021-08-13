@@ -1,0 +1,63 @@
+CC:
+  path: './case_lib/CC_TC_LIB_V2.5_20210812.xlsx'
+  feature: 'CC'
+
+# ILC:
+#   path: './case_lib/ILC_TC_LIB_V2.5_20210810.xlsx'
+#   feature: 'ILC'
+
+# Nudge:
+#   path: './case_lib/nudge_TC_LIB_V1.0_20210810.xlsx'
+#   feature: 'nudge'
+
+# page display:
+#   path: './case_lib/PD_TC_LIB_V2.5_20210810.xlsx'
+#   feature: 'PD'
+
+# Override:
+#   path: './case_lib/Override_TC_LIB_V2.5_20210810.xlsx'
+#   feature: 'Override'
+
+# Sensor wash:
+#   path: './case_lib/SensorWash_TC_LIB_V2.5_20210810.xlsx'
+#   feature: 'SW'
+
+# AD ADAS:
+#   path: './case_lib/AD_ADAS_TC_LIB_V2.5_20210810.xlsx'
+#   feature: 'interaction'
+
+# Fallback:
+#   path: './case_lib/Fallback_TC_LIB_V2.5_20210810.xlsx'
+#   feature: 'FB'
+
+# HMI:
+#   path: './case_lib/HMI_TC_LIB_V2.5_20210810.xlsx'
+#   feature: 'HMI'
+
+# OnOff:
+#   path: './case_lib/OnOff_TC_LIB_V206_20210810.xlsx'
+#   feature: 'ONOFF'
+
+# DSR:
+#   path: './case_lib/DSR_TC_LIB_V2.5_202108010.xlsx'
+#   feature: 'DSR'
+
+# Cooling:
+#   path: './case_lib/Cooling_TC_LIB_V2.5_20210810.xlsx'
+#   feature: 'AC'
+
+# odd&per:
+#   path: 'D:\case_python\case_veh_concrete\case_lib\odd&perception_TC_LIB_V2.5_20210809.xlsx'
+#   feature: 'odd&per'
+
+# odd&con:
+#   path: 'D:\case_python\case_veh_concrete\case_lib\odd&control_TC_LIB_V2.5_20210809.xlsx'
+#   feature: 'odd&con'
+
+# odd&loc:
+#   path: 'D:\case_python\case_veh_concrete\case_lib\odd&loclization_TC_LIB_V2.5_20210809.xlsx'
+#   feature: 'odd&loc'
+
+# odd&plan:
+#   path: 'D:\case_python\case_veh_concrete\case_lib\odd&planning_TC_LIB_V2.5_20210809.xlsx'
+#   feature: 'odd&plan'

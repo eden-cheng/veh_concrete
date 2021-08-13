@@ -1,0 +1,353 @@
+HMI_1_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_1_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_1_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_4:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_5:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_6:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_7:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_8:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_9:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_10:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_11:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_12:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_13:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_14:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_15:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_2_16:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_3_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_3_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+HMI_4_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_4_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_4_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_4_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_4_5:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_4_6:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_4_7:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_4_8:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_5_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_5_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_5_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_5_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_5_5:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_5_6:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_5_7:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_5_8:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_6_1:
+  group1:
+    para_action:
+      k:
+      - '1'
+      - '2'
+      - '3'
+      - '4'
+      - '5'
+      - '6'
+      - '7'
+      - '8'
+      - '9'
+      - '10'
+      - '11'
+      - '12'
+      - '13'
+      - '14'
+      - '15'
+      - '17'
+      - '18'
+      - '19'
+      - '20'
+      - '23'
+      - '24'
+      - '25'
+      - '26'
+      - '30'
+      - '31'
+      - '32'
+      - '33'
+      - '3'
+      - '35'
+      - '37'
+      - '38'
+      - '39'
+      - '40'
+      - '41'
+      - '42'
+      - '43'
+      - '44'
+      - '45'
+      - '46'
+      - '47'
+      - '48'
+      - '49'
+      - '50'
+      - '51'
+      - '52'
+      - '53'
+      - '54'
+      - '55'
+      - '56'
+      - '57'
+      - '58'
+      - '59'
+      - '60'
+      - '61'
+      - '62'
+      - '64'
+      - '65'
+      - '66'
+    para_odd:
+      default:
+      - any
+HMI_7_1:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_7_2:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_7_3:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any
+HMI_7_4:
+  group1:
+    para_action:
+    para_odd:
+      default:
+      - any

@@ -1,0 +1,16 @@
+CC_23_1:
+  group1:
+    para_action:
+      k_tvFF_speed:
+      - 60kph
+      k_tvF_speed01:
+      - 100kph
+      k_tvF_speed02:
+      - 40kph
+      k_tvF_acc:
+      - 3mpss
+      k_relative_dis:
+      - 30m
+    para_odd:
+      default:
+      - any

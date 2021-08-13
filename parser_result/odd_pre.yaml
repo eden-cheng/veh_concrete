@@ -1,0 +1,224 @@
+noload_none:
+  load: noload
+  illumination: day
+  weather: sunny
+  tv: none
+  speed_limit: 80kph
+  area: highway
+noload_sedan:
+  load: noload
+  illumination: day
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+noload_truck:
+  load: noload
+  illumination: day
+  weather: sunny
+  tv: truck
+  speed_limit: 80kph
+  area: highway
+payload_none:
+  load: payload
+  illumination: day
+  weather: sunny
+  tv: none
+  speed_limit: 80kph
+  area: highway
+payload_sedan:
+  load: payload
+  illumination: day
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+payload_truck:
+  load: payload
+  illumination: day
+  weather: sunny
+  tv: truck
+  speed_limit: 80kph
+  area: highway
+night_none:
+  load: noload
+  illumination: night
+  weather: sunny
+  tv: none
+  speed_limit: 80kph
+  area: highway
+night_sedan:
+  load: noload
+  illumination: night
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+night_truck:
+  load: noload
+  illumination: night
+  weather: sunny
+  tv: truck
+  speed_limit: 80kph
+  area: highway
+night_payload_none:
+  load: payload
+  illumination: night
+  weather: sunny
+  tv: none
+  speed_limit: 80kph
+  area: highway
+night_payload_sedan:
+  load: payload
+  illumination: night
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+night_payload_truck:
+  load: payload
+  illumination: night
+  weather: sunny
+  tv: truck
+  speed_limit: 80kph
+  area: highway
+sedan_sedan:
+  load: noload
+  illumination: day
+  weather: sunny
+  tv: sedan_sedan
+  speed_limit: 80kph
+  area: highway
+sedan_truck:
+  load: noload
+  illumination: day
+  weather: sunny
+  tv: sedan_truck
+  speed_limit: 80kph
+  area: highway
+truck_truck:
+  load: noload
+  illumination: day
+  weather: sunny
+  tv: truck_truck
+  speed_limit: 80kph
+  area: highway
+night_sedan_sedan:
+  load: noload
+  illumination: night
+  weather: sunny
+  tv: sedan_sedan
+  speed_limit: 80kph
+  area: highway
+night_sedan_truck:
+  load: noload
+  illumination: night
+  weather: sunny
+  tv: sedan_truck
+  speed_limit: 80kph
+  area: highway
+night_truck_truck:
+  load: noload
+  illumination: night
+  weather: sunny
+  tv: truck_truck
+  speed_limit: 80kph
+  area: highway
+tunnel_entering:
+  load: noload
+  illumination: day
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: tunnel
+tunnel_exiting:
+  load: noload
+  illumination: day
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: tunnel
+tunnel_middle:
+  load: noload
+  illumination: day
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: tunnel
+day_sunny_highway_noload:
+  load: noload
+  illumination: day
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+day_sunny_highway_payload:
+  load: payload
+  illumination: day
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+day_sunny_tunnel_noload:
+  load: noload
+  illumination: day
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: tunnel
+dawn_sunny_highway_noload:
+  load: noload
+  illumination: dawn
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+night_sunny_highway_noload:
+  load: noload
+  illumination: night
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+night&lamp_sunny_highway_noload:
+  load: noload
+  illumination: night
+  weather: sunny
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+day_rainy_highway_noload:
+  load: noload
+  illumination: day
+  weather: rainy
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+day_heavyrainy_highway_noload:
+  load: noload
+  illumination: day
+  weather: heavyrainy
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+night_rainy_highway_noload:
+  load: noload
+  illumination: night
+  weather: rainy
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+night&lamp_rainy_highway_noload:
+  load: noload
+  illumination: night
+  weather: rainy
+  tv: sedan
+  speed_limit: 80kph
+  area: highway
+day_rainy_highway_payload:
+  load: payload
+  illumination: day
+  weather: rainy
+  tv: sedan
+  speed_limit: 80kph
+  area: highway

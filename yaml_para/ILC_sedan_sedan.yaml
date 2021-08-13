@@ -1,0 +1,70 @@
+ILC_18_1:
+  group1:
+    para_action:
+      K_TV1_speed:
+      - 60kph
+      K_TV2_speed:
+      - 0kph
+      K_relative_distance:
+      - 140m
+      K_lane:
+      - "\u5DE6\u8F66\u9053"
+      - "\u53F3\u8F66\u9053"
+    para_odd:
+      default:
+      - any
+ILC_18_2:
+  group1:
+    para_action:
+      K_TV1_speed:
+      - 80kph
+      K_TV2_speed:
+      - 80kph
+      K_relative_distance:
+      - 45m
+      K_TV2_dec:
+      - -3mpss
+      K_lane:
+      - "\u5DE6\u8F66\u9053"
+      - "\u53F3\u8F66\u9053"
+    para_odd:
+      default:
+      - any
+ILC_18_7:
+  group1:
+    para_action:
+      K_TV1_speed:
+      - 80kph
+      K_TV2_speed:
+      - 80kph
+      K_relative_distance:
+      - 50m
+      K_TV2_dec:
+      - -5mpss
+      K_TV1_dec:
+      - -1mpss
+      K_lane:
+      - "\u5DE6\u8F66\u9053"
+      - "\u53F3\u8F66\u9053"
+    para_odd:
+      default:
+      - any
+ILC_18_8:
+  group1:
+    para_action:
+      K_TV1_speed:
+      - 80kph
+      K_TV2_speed:
+      - 80kph
+      K_relative_distance:
+      - 30m
+      K_TV2_acc:
+      - 3mpss
+      K_TV1_dec:
+      - -1mpss
+      K_lane:
+      - "\u5DE6\u8F66\u9053"
+      - "\u53F3\u8F66\u9053"
+    para_odd:
+      default:
+      - any

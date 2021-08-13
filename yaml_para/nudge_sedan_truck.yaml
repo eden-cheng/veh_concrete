@@ -1,0 +1,203 @@
+nudge_4_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_TV_speed:
+      - 40kph
+      - 60kph
+      K_position:
+      - "\u5DE6\u8F66\u9053"
+      K_long_distance:
+      - 80m
+    para_odd:
+      default:
+      - any
+  group2:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_TV_speed:
+      - 0kph
+      K_position:
+      - "\u5DE6\u8F66\u9053"
+      - "\u5E94\u6025\u8F66\u9053"
+      - "\u5E94\u6025\u505C\u8F66\u6E2F"
+      - "\u7F13\u51B2\u533A"
+      K_long_distance:
+      - 80m
+    para_odd:
+      default:
+      - any
+nudge_5_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_TV_speed:
+      - 0kph
+      - 20kph
+      K_long_distance:
+      - 80m
+    para_odd:
+      default:
+      - any
+nudge_5_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_TV1_speed:
+      - 0kph
+      K_TV2_speed:
+      - 20kph
+      - 40kph
+      K_long_distance1:
+      - 100m
+      K_long_distance2:
+      - 30m
+    para_odd:
+      default:
+      - any
+nudge_7_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+      K_TV_speed:
+      - 30kph
+    para_odd:
+      default:
+      - any
+nudge_7_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+      K_TV_speed:
+      - 40kph
+      K_TV_dec:
+      - -1mpss
+      - -3mpss
+      - -5mpss
+    para_odd:
+      default:
+      - any
+nudge_8_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+      - 50kph
+      - 60kph
+      K_TV2_speed:
+      - 0kph
+      K_long_distance:
+      - 80m
+      K_TV1_dec:
+      - -3mpss
+    para_odd:
+      default:
+      - any
+nudge_8_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 40kph
+      - 50kph
+      - 60kph
+      K_TV2_speed:
+      - 0kph
+      K_long_distance:
+      - 80m
+      K_TV2_acc:
+      - 3mpss
+      K_TV1_dec:
+      - -3mpss
+    para_odd:
+      default:
+      - any
+nudge_9_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 60kph
+      K_TV1_speed:
+      - 0kph
+      K_long_distance:
+      - 60m
+    para_odd:
+      default:
+      - any
+nudge_9_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 60kph
+      K_TV1_speed:
+      - 0kph
+      K_long_distance:
+      - 60m
+    para_odd:
+      default:
+      - any
+nudge_9_4:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 60kph
+      K_TV1_speed:
+      - 0kph
+      K_long_distance1:
+      - 60m
+      K_long_distance2:
+      - 30m
+    para_odd:
+      default:
+      - any
+nudge_9_5:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 60kph
+      K_TV1_speed:
+      - 0kph
+      K_long_distance1:
+      - 60m
+      K_long_distance2:
+      - 30m
+    para_odd:
+      default:
+      - any
+nudge_9_6:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 60kph
+      K_TV1_speed:
+      - 0kph
+      K_long_distance1:
+      - 60m
+      K_long_distance2:
+      - 60m
+      K_TV2_acc:
+      - 3mpss
+    para_odd:
+      default:
+      - any
+nudge_9_7:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 60kph
+      K_TV1_speed:
+      - 0kph
+      K_long_distance1:
+      - 60m
+      K_long_distance2:
+      - 60m
+      K_TV2_decc:
+      - -3mpss
+    para_odd:
+      default:
+      - any

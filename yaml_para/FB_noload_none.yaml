@@ -1,0 +1,224 @@
+FB_1_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+FB_1_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+FB_2_1:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 50kph
+      K_FALLBACK_DRIVER_FOCUS_DURATION_A:
+      - 5s
+      K_FALLBACK_DRIVER_FOCUS_DURATION_B:
+      - 15s
+    para_odd:
+      default:
+      - any
+FB_2_2:
+  group1:
+    para_action:
+      K_FALLBACK_DRIVER_SEAT_STATUS_DURATION_B:
+      - 2s
+      k_tv_speed:
+      - 50kph
+    para_odd:
+      default:
+      - any
+FB_2_3:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 50kph
+      K_FALLBACK_DRIVER_FOCUS_DURATION_B:
+      - 15s
+      K_FALLBACK_DRIVER_FOCUS_DURATION_C:
+      - 60s
+    para_odd:
+      default:
+      - any
+FB_2_4:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 50kph
+      K_FALLBACK_DRIVER_FOCUS_DURATION_C:
+      - 60s
+    para_odd:
+      default:
+      - any
+FB_2_5:
+  group1:
+    para_action:
+      k_tv_speed:
+      - 50kph
+      K_FALLBACK_DRIVER_BEHAVIOR_DURATION_A:
+      - 3s
+    para_odd:
+      default:
+      - any
+FB_4_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+FB_4_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+FB_4_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+FB_4_4:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+FB_4_5:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+FB_4_6:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+FB_4_12:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+FB_4_13:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+FB_4_14:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
+FB_4_15:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+      K_Standstill_maximum_allowed_time:
+      - 60s
+    para_odd:
+      default:
+      - any
+FB_7_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 50kph
+    para_odd:
+      default:
+      - any
+FB_7_2:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 50kph
+    para_odd:
+      default:
+      - any
+FB_7_3:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 50kph
+    para_odd:
+      default:
+      - any
+FB_7_4:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 50kph
+    para_odd:
+      default:
+      - any
+FB_7_5:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 50kph
+    para_odd:
+      default:
+      - any
+FB_7_6:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 50kph
+    para_odd:
+      default:
+      - any
+FB_7_7:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 50kph
+    para_odd:
+      default:
+      - any
+FB_7_8:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 50kph
+    para_odd:
+      default:
+      - any
+FB_9_1:
+  group1:
+    para_action:
+      K_HV_speed:
+      - 80kph
+    para_odd:
+      default:
+      - any
